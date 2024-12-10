@@ -13,4 +13,4 @@ The link to the [website.](https://yavorkalaydzhiev.com/index.html)
 
 It's a basic website for my friend who needs exposure as an aspiring designer and artist. 
 I used HTML, CSS and JS for the build and hosted it. It lacks security but there is no vulnerable information
-on there. My next projects will be more developer therefore keep to standard security practices.
+on there. My next projects will be more developed therefore keep to standard security practices.
